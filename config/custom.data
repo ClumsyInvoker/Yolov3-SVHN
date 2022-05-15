@@ -1,0 +1,7 @@
+classes=1
+train=Data/custom/train.txt
+valid=Data/custom/valid.txt
+test=Data/custom/test.txt
+names=Data/custom/custom.names
+backup=backup/
+eval=custom
